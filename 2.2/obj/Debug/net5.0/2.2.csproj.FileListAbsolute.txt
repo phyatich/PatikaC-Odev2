@@ -1,0 +1,15 @@
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/bin/Debug/net5.0/2.2.deps.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/bin/Debug/net5.0/2.2.runtimeconfig.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/bin/Debug/net5.0/2.2.runtimeconfig.dev.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/bin/Debug/net5.0/2.2.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/bin/Debug/net5.0/ref/2.2.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/bin/Debug/net5.0/2.2.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/obj/Debug/net5.0/2.2.csproj.AssemblyReference.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/obj/Debug/net5.0/2.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/obj/Debug/net5.0/2.2.AssemblyInfoInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/obj/Debug/net5.0/2.2.AssemblyInfo.cs
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/obj/Debug/net5.0/2.2.csproj.CoreCompileInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/obj/Debug/net5.0/2.2.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/obj/Debug/net5.0/ref/2.2.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/obj/Debug/net5.0/2.2.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/PatikaC#Odev2/2.2/obj/Debug/net5.0/2.2.genruntimeconfig.cache
